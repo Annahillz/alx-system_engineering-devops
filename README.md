@@ -1,3 +1,1 @@
-#!/bin/bash
-Starting to learn system engineering
-
+# ALX System Engineering DevOps
