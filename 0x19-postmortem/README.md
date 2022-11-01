@@ -28,3 +28,6 @@ In short, a typo. Gotta love'em. In full, the WordPress app was encountering a c
 Patch involved a simple fix on the typo, removing the trailing  `p`.
 
 That was all needed!
+
+![image](https://user-images.githubusercontent.com/99281742/199353032-790aa943-1f02-4cd4-b265-78b7d6421d10.png)
+
